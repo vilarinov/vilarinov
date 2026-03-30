@@ -1,4 +1,47 @@
-## Hi there 👋
+# Olá, eu sou VilarinoV 👋
+
+Bem-vindo(a) ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e inovação, com experiência em diversas áreas do desenvolvimento de software.
+
+<!--## 🚀 Sobre Mim
+
+[Escreva aqui uma breve descrição sobre você, seus interesses, o que você gosta de construir, etc. Ex: Sou um(a) engenheiro(a) de software focado(a) em construir soluções escaláveis e eficientes, com interesse em desenvolvimento web, infraestrutura e automação.]-->
+
+## 🛠️ Minhas Habilidades
+
+Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+
+### Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### DevOps & Infraestrutura
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+```markdown
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+> **Observação**: Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub para que as estatísticas sejam exibidas corretamente. Você também pode alterar o `theme` para um de sua preferência (ex: `dark`, `tokyonight`, `onedark`).
+
+## 🤝 Como Me Conectar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+
+---
+
+Feito com ❤️ por Seu Nome/Seu Nickname
 
 <!--
 **vilarinov/vilarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
