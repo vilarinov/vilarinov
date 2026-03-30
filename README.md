@@ -32,7 +32,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarinov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-<!--> **Observação**: Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub para que as estatísticas sejam exibidas corretamente. Você também pode alterar o `theme` para um de sua preferência (ex: `dark`, `tokyonight`, `onedark`). -->
+
 
 ## 🤝 Como Me Conectar
 
