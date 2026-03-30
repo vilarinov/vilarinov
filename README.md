@@ -28,11 +28,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ## 📊 Estatísticas do GitHub
 
 ```markdown
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilarinov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarinov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-> **Observação**: Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub para que as estatísticas sejam exibidas corretamente. Você também pode alterar o `theme` para um de sua preferência (ex: `dark`, `tokyonight`, `onedark`).
+<!--> **Observação**: Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub para que as estatísticas sejam exibidas corretamente. Você também pode alterar o `theme` para um de sua preferência (ex: `dark`, `tokyonight`, `onedark`). -->
 
 ## 🤝 Como Me Conectar
 
