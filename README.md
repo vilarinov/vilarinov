@@ -36,12 +36,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ## 🤝 Como Me Conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-augusto-quintino-e-vilarino-6857472b8)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vilarinov)
 
----
 
-Feito com ❤️ por Seu Nome/Seu Nickname
 
 <!--
 **vilarinov/vilarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
