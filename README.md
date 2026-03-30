@@ -25,12 +25,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-```markdown
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilarinov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarinov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-```
 
 
 
