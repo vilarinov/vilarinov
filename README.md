@@ -1,14 +1,12 @@
 # Olá, eu sou VilarinoV 👋
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e inovação, com experiência em diversas áreas do desenvolvimento de software.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em diversas áreas do desenvolvimento de software.
 
 <!--## 🚀 Sobre Mim
 
 [Escreva aqui uma breve descrição sobre você, seus interesses, o que você gosta de construir, etc. Ex: Sou um(a) engenheiro(a) de software focado(a) em construir soluções escaláveis e eficientes, com interesse em desenvolvimento web, infraestrutura e automação.]-->
 
 ## 🛠️ Minhas Habilidades
-
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
